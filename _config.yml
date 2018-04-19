@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TreeAdvisor
+title: TreehouseAdvisor
 email: angeladeng@college.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  World's Largest Tree Site. 5+ unbiased tree reviews. 
-  Search 0+ sites to find the best trees.
+  World's Largest Treehouse Site. 5+ unbiased treehouse reviews. 
+  Search 0+ sites to find the best treehouses.
 baseurl: "/my-site" # the subpath of your site, e.g. /blog
 url: "http://a-deng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: "" # the subpath of your site, e.g. /blog

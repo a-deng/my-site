@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top trees around the world"
+title:  "Top treehouses around the world"
 date:   2018-04-19 16:03:44 -0400
 categories: jekyll update
 ---
